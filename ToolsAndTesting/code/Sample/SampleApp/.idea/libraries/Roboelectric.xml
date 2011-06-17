@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Roboelectric">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../SampleAppRoboelectric/libs/robolectric-1.0-RC1-jar-with-dependencies.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SampleAppRoboelectric/libs/junit4.9b2.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

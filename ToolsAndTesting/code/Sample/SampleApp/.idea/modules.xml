@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SampleApp.iml" filepath="$PROJECT_DIR$/SampleApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SampleAppRoboelectric/SampleAppRoboelectric.iml" filepath="$PROJECT_DIR$/../SampleAppRoboelectric/SampleAppRoboelectric.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SampleAppRobotium/SampleAppRobotium.iml" filepath="$PROJECT_DIR$/../SampleAppRobotium/SampleAppRobotium.iml" />
+    </modules>
+  </component>
+</project>
+

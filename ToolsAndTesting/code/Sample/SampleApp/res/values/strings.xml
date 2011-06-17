@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" value="Intro" />
+    <string name="enter_pounds_label" value="Enter pounds" />
+    <string name="convert_pounds_label" value ="To Kilograms" />
+</resources>
