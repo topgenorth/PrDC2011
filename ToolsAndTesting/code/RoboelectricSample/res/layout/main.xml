@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+        >
+    <RadioGroup android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+        <RadioButton android:id="@+id/radio_drams"
+                     android:layout_width="wrap_content"
+                     android:checked="true"
+                     android:layout_height="wrap_content"
+                     android:text="To Drams"/>
+        <RadioButton android:id="@+id/radio_millilitres"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:text="To Millilitres"/>
+    </RadioGroup>
+    <EditText android:id="@+id/inputVolumeEdit"
+              android:numeric="decimal"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:text=""
+              android:hint="Enter millilitres"
+            />
+    <Button android:id="@+id/convertVolumeButton"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="To drams"
+            />
+    <TextView
+            android:id="@+id/convertedVolumeResult"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            />
+</LinearLayout>
+

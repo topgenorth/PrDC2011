@@ -17,3 +17,4 @@ local.properties
 .classpath
 AndroidIntro/code/out/**
 AndroidIntro/code/.idea/ant.xml
+ToolsAndTesting/code/RoboelectricSample/out/**

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="net.opgenorth.prdc11.testing.roboelectric"
+      android:versionCode="1"
+      android:versionName="1.0">
+    <application android:label="PrDC2011 - Convert Volume" android:icon="@drawable/icon">
+        <activity android:name="net.opgenorth.prdc11.roboelectric.MyActivity"
+                  android:label="PrDC2011 - Convert Volume">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest> 
