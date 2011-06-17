@@ -18,3 +18,4 @@ local.properties
 AndroidIntro/code/out/**
 AndroidIntro/code/.idea/ant.xml
 ToolsAndTesting/code/RoboelectricSample/out/**
+ToolsAndTesting/UseMemory/code/**
